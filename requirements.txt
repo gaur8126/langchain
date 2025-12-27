@@ -20,4 +20,4 @@ python-dotenv
 
 numpy 
 scikit-learn
-pytorch
+torch

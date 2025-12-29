@@ -21,3 +21,5 @@ python-dotenv
 numpy 
 scikit-learn
 torch
+
+grandalf

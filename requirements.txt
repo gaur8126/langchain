@@ -1,6 +1,7 @@
 langchain
 langchain-core
 
+
 langchain-openai
 openai
 
@@ -23,3 +24,8 @@ scikit-learn
 torch
 
 grandalf
+
+langchain-community
+duckduckgo-search
+ddgs
+langchain-experimental

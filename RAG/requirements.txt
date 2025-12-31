@@ -1,0 +1,4 @@
+langchain
+flask 
+bs4
+dotenv
